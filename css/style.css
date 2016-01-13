@@ -70,12 +70,12 @@ html, body
 
 #one 
 {
-	background: #242d38;
+	background-image: url(../images/city.jpg);
 }
 
 #two 
 {
-	background-image: url(../images/card.png);
+	background-image: url(../images/card.jpg);
 }
 
 #three 
